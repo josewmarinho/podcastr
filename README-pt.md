@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-    <img alt="GitHub top language" src="">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/josewmarinho/podcastr?color=blueviolet&label=TypeScript&style=flat-square">
     <a href="https://www.linkedin.com/in/josewportomarinhojr/" target="_blank" rel="josewportomarinhojr">
-      <img alt="Made by" src="https://img.shields.io/badge/Made%20by-Jos%C3%A9%20Wellington-%23green">
+      <img alt="Made by" src="https://img.shields.io/badge/Made%20by-Jos%C3%A9%20Wellington-blueviolet">
     </a>
-    <img alt="License" src="https://img.shields.io/badge/License-MIT-green">
+    <img alt="License" src="https://img.shields.io/badge/License-MIT-blueviolet">
   </p>
 </div>
 
